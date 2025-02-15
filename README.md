@@ -28,12 +28,12 @@ This computer was heavily inspired by, and borrowing from, both Sergey Kiselev's
 I desired a MSX without all the fluff, but with the modularity that the Omega Computer affords.  I wanted a simplified circuit, but with nice options such as power regulation, options for a mechanical power switch, and +12v/-12v rails.  The MSX-ONE gives the casual MSX user just the basics to have a functional yet flexible machine for playing MSX1 games.  And it does this without the need for programmable logic.  The design uses all off the shelf TTL compatible parts, which are still in current production.<br><br>
 
 **Specifications:**<br>
--TMS9118 VDP with 16k DRAM (2x4bit DRAMS)
--32k EEPROM in SLOT0 (BIOS with International Keyboard, Mapper Initializer & BASIC 1.0)
--64K SRAM in SLOT3
--Standard PSG
--International Keyboard
--No Printer Port
--No Cassette Interface
--No Disk Drive
--No Fluff
+-TMS9118 VDP with 16k DRAM (2x4bit DRAMS)<br>
+-32k EEPROM in SLOT0 (BIOS with International Keyboard, Mapper Initializer & BASIC 1.0)<br>
+-64K SRAM in SLOT3<br>
+-Standard PSG<br>
+-International Keyboard<br>
+-No Printer Port<br>
+-No Cassette Interface<br>
+-No Disk Drive<br>
+-No Fluff<br>
