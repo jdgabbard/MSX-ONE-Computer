@@ -8,7 +8,7 @@ Designed as a cheap, and easy to build, MSX1 computer for the US Vintage Compute
 
 ![MSXONE](https://github.com/jdgabbard/MSX-ONE-Computer/blob/5a7c75bfa897395387fe069c0974be946dafa42f/Photos/Render.JPG)
 
-Features include:<br><br>
+**Features include:**<br><br>
 -Small Footprint:
      -Mainboard size: 200mm x 150mm
      -Keyboard size: 200mm x 95mm
@@ -22,14 +22,12 @@ Features include:<br><br>
 -A small form factor, consisting of a PCB approximately the same size as a ZX Spectrum: 200mm x 150mm<br>
 -A stackable keyboard (Omega Home Computer Compatible) using cheap tactile switches with an optional cover for aesthetics.<br><br>
 
-
-#Inspiration
-
+**Inspiration**
 This computer was heavily inspired by, and borrowing from, both Sergey Kiselev's Omega Home Computer, and the JFF Computer (https://github.com/konkotgit/JFF), as well as the Casio MX-10.<br><br>
 
 I desired a MSX without all the fluff, but with the modularity that the Omega Computer affords.  I wanted a simplified circuit, but with nice options such as power regulation, options for a mechanical power switch, and +12v/-12v rails.  The MSX-ONE gives the casual MSX user just the basics to have a functional yet flexible machine for playing MSX1 games.  And it does this without the need for programmable logic.  The design uses all off the shelf TTL compatible parts, which are still in current production.<br><br>
 
-#Specifications:
+**Specifications:**
 -TMS9118 VDP with 16k DRAM (2x4bit DRAMS)
 -32k EEPROM in SLOT0 (BIOS with International Keyboard, Mapper Initializer & BASIC 1.0)
 -64K SRAM in SLOT3
