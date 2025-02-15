@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "lib_cherry")(type "KiCad")(uri "${KIPRJMOD}/lib_cherry")(options "")(descr ""))
+  (lib (name "lib_keyboard")(type "KiCad")(uri "${KIPRJMOD}/lib_keyboard")(options "")(descr ""))
+)
