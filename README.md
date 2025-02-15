@@ -6,7 +6,7 @@ A small, easy to build MSX1 compatible computer.<br>
 
 Designed as a cheap, and easy to build, MSX1 computer for the US Vintage Computer enthusiast.
 
-![RD10](https://github.com/jdgabbard/RD-10-Docking-Station/blob/59d0eb6cd6155eeae0b91679d095db8af9a2d37a/Renders/RD10.jpg)
+![MSX-ONE]([https://github.com/jdgabbard/RD-10-Docking-Station/blob/59d0eb6cd6155eeae0b91679d095db8af9a2d37a/Renders/RD10.jpg](https://github.com/jdgabbard/MSX-ONE-Computer/blob/6c76e4c953c62954539ab062a4356bdd8ebb6146/Photos/Render.JPG))
 
 Features include:<br><br>
 -Small Footprint:
@@ -21,9 +21,6 @@ Features include:<br><br>
 -Construction consisting of off the shelf TTL logic, without the need for any programable logic, SPLDs or FPGAs to worry about programming.<br>
 -A small form factor, consisting of a PCB approximately the same size as a ZX Spectrum: 200mm x 150mm<br>
 -A stackable keyboard (Omega Home Computer Compatible) using cheap tactile switches with an optional cover for aesthetics.<br><br>
-
-![Side](https://github.com/jdgabbard/RD-10-Docking-Station/blob/59d0eb6cd6155eeae0b91679d095db8af9a2d37a/Renders/RD10_s.jpg)
-![Board](https://user-images.githubusercontent.com/45840007/149648978-a7b48527-80b2-425f-99db-0caf30545570.JPG)
 
 
 #Inspiration
