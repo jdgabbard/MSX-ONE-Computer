@@ -6,7 +6,7 @@ A small, easy to build MSX1 compatible computer.<br>
 
 Designed as a cheap, and easy to build, MSX1 computer for the US Vintage Computer enthusiast.
 
-![]([https://github.com/jdgabbard/RD-10-Docking-Station/blob/59d0eb6cd6155eeae0b91679d095db8af9a2d37a/Renders/RD10.jpg](https://github.com/jdgabbard/MSX-ONE-Computer/blob/6c76e4c953c62954539ab062a4356bdd8ebb6146/Photos/Render.JPG))
+![MSXONE]([https://github.com/jdgabbard/RD-10-Docking-Station/blob/59d0eb6cd6155eeae0b91679d095db8af9a2d37a/Renders/RD10.jpg](https://github.com/jdgabbard/MSX-ONE-Computer/blob/6c76e4c953c62954539ab062a4356bdd8ebb6146/Photos/Render.JPG))
 
 Features include:<br><br>
 -Small Footprint:
