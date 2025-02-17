@@ -45,7 +45,7 @@ R7          | 8.2K Resistor            |                             |          
 C14,C16,C17 | 470uF Electrol Capacitor | UVR1E471MPD                 | 493-1064-ND                       | 647-UVR1E471MPD                    | 
 C20-23,C37-39| 10uF Electroly Capacitor | ECE-A1EKS100I               | 10-ECE-A1EKS100ICT-ND             | 667-ECE-A1EKS100I                  |
 C5, C6      | 27pF Ceramic Capacitor   | RCE5C2A270J0M1H03A          | 490-7451-1-ND                     | 81-RCE5C2A270J0M1H3A               | 
-Bypass Caps | 100nF Ceramic Capacitor  | FK28X7R1H104KN000           | 445-FK28X7R1H104KN000-ND          | 810-FK28X7R1H104K                  | C1,C3-4,C7-11,C18,C19,C24-36
+Bypass Caps | 100nF Ceramic Capacitor  | FK28X7R1H104KN000           | 445-FK28X7R1H104KN000-ND          | 810-FK28X7R1H104K                  | C1,C3-4,C7-11,C18-19,C24-36
 C12         | 1.5nF Ceramic Capacitor  | FG28X7R1H152KNT06           | 445-173589-1-ND                   | 810-FG28X7R1H152KNT6               | 
 SLOT1,SLOT2 | 50pin Card Edge          | 5530843-5                   | A31718-ND                         | 571-5530843-5                      | 
 Gamepad1/2  | DB9 Male                 | L717SDE09P1ACH3R            | L717SDE09P1ACH3R-ND               | 523-L717SDE09P1ACH3R               | 
