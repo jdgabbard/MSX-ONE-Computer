@@ -1,4 +1,4 @@
-**#MSX-ONE BUILD NOTES**
+**MSX-ONE BUILD NOTES**
 
 ![Mainboard](https://github.com/jdgabbard/MSX-ONE-Computer/blob/6d85ef19a87578129a18bd93f77f0a73d782c624/Photos/Mainboard.jpg)
 
@@ -6,7 +6,7 @@ I am still working on a BOM for the MSX-ONE Mainboard. However, in the meantime 
 
 PCB version P1.1 in the Gerbs folder is the last tested version. However, this version has a small flaw. U9, the MC34063a buck converter IC used for the -12v rail needs to have pins 7 & 8 solder-jumpered together during the build process. Without this, the -12v rail will not be present, and the MC34063a will overheat and fail. In addition to this, I would suggest adding a 1-Watt 1K or 2K resistor between -12v and GND on the underside of the board. This helps to stabilize the -12v rail, resulting in less voltage ripple, as the MC34063a skips oscillation when -12v is reached. Adding this simple resistor helps prevent the skipped oscillation, making the voltage level more stable. This has been changed on the v1.0 PCB, though that PCB has not been tested at this time.
 
-**###BOM**
+**BOM**
 Name        | Description              | Part#                       | DigiKey                           | Mouser                             | Notes
 ------------|--------------------------|-----------------------------|-----------------------------------|------------------------------------|---------------------------
 U1, U12	    | 74HCT74	                 | SN74HCT74N                  | 296-1625-5-ND                     | 595-SN74HCT74N                     |
