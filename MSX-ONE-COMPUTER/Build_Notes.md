@@ -43,7 +43,7 @@ R6          | 0.24ohm Resistor         | RR01JR24TB                  | A138235TB
 R1-2,R15-18,R20,R28-29 | 1/8w 10Kohm Resistor | CF18JT10K0           | CF18JT10K0CT-ND                   | 708-CF18JT10K0                     | 
 R3          | 1Kohm 1/2W Resistor      | CFR-50JB-52-1K              | 1.0KH-ND                          | 603-CFR-50JB-52-1K                 | *Need to check physical size
 R8,R5       | 1/8w 1Kohm Resistor      | CF18JT1K00                  | CF18JT1K00CT-ND                   | 708-CF18JT1K00                     | 
-R7          | 1/8w 8.2K Resistor       | CF18JT8K20                  | CF18JT8K20CT-ND                   | 603-CFR-12JR-52-8K2                | 
+R7          | 1/8w 8.2K Resistor       | CF18JT8K20                  | CF18JT8K20CT-ND                   | 603-CFR-12JR-52-8K2                | *May substitute 10k, but -12v will be incorrect voltage
 R9,R14      | 1/8w 470ohm Resistor     | CF18JT470R                  | CF18JT470RCT-ND                   | 708-CF18JT470R                     | 
 R10,R11     | 1/8w 4.7Kohm Resistor    | CF18JT4K70                  | CF18JT4K70CT-ND                   | 708-CF18JT4K70                     | 
 R12         | 1/8w 20Kohm Resistor     | CF18JT20K0                  | CF18JT20K0CT-ND                   | 708-CF18JT20K0                     | 
