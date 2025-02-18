@@ -52,7 +52,7 @@ C14,C16,C17 | 470uF Electrol Capacitor | UVR1E471MPD                 | 493-1064-
 C20-23,C37-39| 10uF Electroly Capacitor| ECE-A1EKS100I               | 10-ECE-A1EKS100ICT-ND             | 667-ECE-A1EKS100I                  |
 C5, C6      | 27pF Ceramic Capacitor   | RCE5C2A270J0M1H03A          | 490-7451-1-ND                     | 81-RCE5C2A270J0M1H3A               | 
 C1-4,C7-11,C18-19,C24-36 | 100nF Ceramic Capacitor | FK28X7R1H104KN000| 445-FK28X7R1H104KN000-ND         | 810-FK28X7R1H104K                  | 
-C12         | 470pF Ceramic Capacitor  | S471K29Y5PP63K5R            | 1286PH-ND                         | 594-S471K29Y5PP63K5R               | 
+C12         | 470pF Ceramic Capacitor  | S471K29Y5PP63K5R            | 1286PH-ND                         | 594-S471K29Y5PP63K5R               | *Datasheet specifies 1.5nF, lots of noise with that value
 SLOT1,SLOT2 | 50pin Card Edge          | 5530843-5                   | A31718-ND                         | 571-5530843-5                      | 
 Gamepad1/2  | DB9 Male                 | L717SDE09P1ACH3R            | L717SDE09P1ACH3R-ND               | 523-L717SDE09P1ACH3R               | 
 J2          | Yellow RCA               | RCJ-014                     | CP-1403-ND                        | 490-RCJ-014                        | 
