@@ -40,14 +40,14 @@ D4,D5,D6,D7 | 1N4148                   | 1N4148                      | 1N4148FS-
 D9          | 1N5822                   | 1N5822                      | 497-14742-1-ND                    | 511-1N5822-TR                      | 
 RN1, RN2    | 4.7kohm Resistor Array   | 4609X-101-472LF             | 4609X-101-472LF-ND                | 652-4609X-1LF-4.7K                 | 
 R6          | 0.24ohm Resistor         | RR01JR24TB                  | A138235TB-ND                      | 279-RR01JR24TB                     | *Need to check physical size
-R1-2,R15-18,R20,R28-29 | 1/8w 10Kohm Resistor |                      |                                   |                                    | 
-R3          | 1Kohm 1W Resistor        |                             |                                   |                                    | *Need to check physical size
-R8,R5       | 1/8w 1Kohm Resistor      |                             |                                   |                                    | 
-R7          | 1/8w 8.2K Resistor       |                             |                                   |                                    | 
-R9,R14      | 1/8w 470ohm Resistor     |                             |                                   |                                    | 
-R10,R11     | 1/8w 4.7Kohm Resistor    |                             |                                   |                                    | 
-R12         | 1/8w 20Kohm Resistor     |                             |                                   |                                    | 
-R13         | 1/8w 2.2kohm Resistor    |                             |                                   |                                    | 
+R1-2,R15-18,R20,R28-29 | 1/8w 10Kohm Resistor | CF18JT10K0           | CF18JT10K0CT-ND                   | 708-CF18JT10K0                     | 
+R3          | 1Kohm 1/2W Resistor      | CFR-50JB-52-1K              | 1.0KH-ND                          | 603-CFR-50JB-52-1K                 | *Need to check physical size
+R8,R5       | 1/8w 1Kohm Resistor      | CF18JT1K00                  | CF18JT1K00CT-ND                   | 708-CF18JT1K00                     | 
+R7          | 1/8w 8.2K Resistor       | CF18JT8K20                  | CF18JT8K20CT-ND                   | 603-CFR-12JR-52-8K2                | 
+R9,R14      | 1/8w 470ohm Resistor     | CF18JT470R                  | CF18JT470RCT-ND                   | 708-CF18JT470R                     | 
+R10,R11     | 1/8w 4.7Kohm Resistor    | CF18JT4K70                  | CF18JT4K70CT-ND                   | 708-CF18JT4K70                     | 
+R12         | 1/8w 20Kohm Resistor     | CF18JT20K0                  | CF18JT20K0CT-ND                   | 708-CF18JT20K0                     | 
+R13         | 1/8w 2.2kohm Resistor    | CF18JT2K20                  | CF18JT2K20CT-ND                   | 708-CF18JT2K20                     | 
 C14,C16,C17 | 470uF Electrol Capacitor | UVR1E471MPD                 | 493-1064-ND                       | 647-UVR1E471MPD                    | 
 C20-23,C37-39| 10uF Electroly Capacitor| ECE-A1EKS100I               | 10-ECE-A1EKS100ICT-ND             | 667-ECE-A1EKS100I                  |
 C5, C6      | 27pF Ceramic Capacitor   | RCE5C2A270J0M1H03A          | 490-7451-1-ND                     | 81-RCE5C2A270J0M1H3A               | 
