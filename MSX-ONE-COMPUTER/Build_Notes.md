@@ -12,7 +12,7 @@ Name        | Description              | Part#                       | DigiKey  
 PCB         | MSX-ONE PCB              |                             |                                   |                                    | I use JLCPCB, Good Prices.
 U1, U12	    | 74HCT74	               | SN74HCT74N                  | 296-1625-5-ND                     | 595-SN74HCT74N                     | Can use LS or HCT Technology
 U2	        | Z80 Microprocessor       |                             |                                   |                                    | *Ebay or 2nd Hand Market
-U3          | MAX701 or ATTiny85       | MAX701EPA+ or ATTINY85-20PU | MAX701EPA+-ND or ATTINY85-20PU-ND | 700-MAX701EPA or 556-ATTINY85-20PU | *Use ATTINY with LS Parts, it has more drive/sink current
+U3          | MAX701 or ATTiny85 (Binary Provided)| MAX701EPA+ or ATTINY85-20PU | MAX701EPA+-ND or ATTINY85-20PU-ND | 700-MAX701EPA or 556-ATTINY85-20PU | *Use ATTINY with LS Parts, it has more drive/sink current
 U4, U24     | 74HCT32                  | SN74HCT32N                  | 296-1615-5-ND                     | 595-SN74HCT32N                     | Can use LS or HCT Technology
 U5          | 74LS07                   | SN74LS07N                   | 296-14878-5-ND                    | 595-SN74LS07N                      | Only available in LS technology
 U6          | TMS9118 VDP              |                             |                                   |                                    | *Ebay or 2nd Hand Market
