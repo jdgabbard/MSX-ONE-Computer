@@ -39,7 +39,7 @@ D4,D5,D6,D7 | 1N4148                   | 1N4148                      | 1N4148FS-
 D9          | 1N5822                   | 1N5822                      | 497-14742-1-ND                    | 511-1N5822-TR                      | 
 RN1, RN2    | 4.7kohm Resistor Array   | 4609X-101-472LF             | 4609X-101-472LF-ND                | 652-4609X-1LF-4.7K                 | 
 R6          | 0.24ohm Resistor         | RR01JR24TB                  | A138235TB-ND                      | 279-RR01JR24TB                     | 
-R1          | 10Kohm Resistor          |                             |                                   |                                    | 
+R1-2,R15,R28-29 | 10Kohm Resistor          |                             |                                   |                                    | 
 R8          | 1Kohm Resistor           |                             |                                   |                                    | 
 R7          | 8.2K Resistor            |                             |                                   |                                    | 
 C14,C16,C17 | 470uF Electrol Capacitor | UVR1E471MPD                 | 493-1064-ND                       | 647-UVR1E471MPD                    | 
