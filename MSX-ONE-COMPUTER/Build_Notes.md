@@ -30,8 +30,8 @@ U23         | 74HCT153                 | CD74HCT153E                 | 296-2094-
 U26         | 82C55A PPI               | i82C55A or CP82C55A-5Z      | CP82C55A-5Z-ND                    |968-CP82C55A-5Z                     | *Cheaper on Ebay or 2nd Hand
 U27         | 74HCT08                  | SN74HCT08N                  | 296-1606-5-ND                     | 595-SN74HCT08N                     | Can use LS or HCT Technology
 U28         | 74HCT138                 | SN74HCT138N                 | 296-1608-5-ND                     | 595-SN74HCT138N                    | Can use LS or HCT Technology
-L1          | 1uH Ferrite Bead         |                             |                                   |                                    | 
-L2, L5      | 88uH Inductor            |                             |                                   |                                    | 
+L1          | 1uH Ferrite Bead         | 2743005112                  | 1934-1416-1-ND                    | 623-2743005112                     | 
+L2, L5      | 88uH Inductor            | AIUR-06-680K                | AIUR-06-680K-ND                   | 815-AIUR-06-680K                   | 
 Y1          | 10.738635 MHz Crystal    | MP107-E                     | CTX1443-ND                        | 774-MP107-E                        | May be difficult to source
 D1          | 3mm Red LED              | 732-5006-ND                 | 710-151031SS06000                 | 151031SS06000                      | 
 D2          | 2W10 Bridge Rectifier    | 2W10                        | 4786-2W10GCT-ND                   | 625-2W10G-E4                       | 
@@ -59,7 +59,7 @@ J2          | Yellow RCA               | RCJ-014                     | CP-1403-N
 J3          | White RCA                | RCJ-013                     | CP-1402-ND                        | 490-RCJ-013                        | 
 J1          | DC Jack                  | KLDX-0202-A                 | 2092-KLDX-0202-A-ND               | 806-KLDX-0202-A                    | 
 J9          | IDC 2x8P                 | 61201621621                 | 732-2095-ND                       | 710-61201621621                    | 
-J8          | JST 4pin Right Angle     |                             |                                   |                                    | 
-SW1         | Tactile SW Right Angle   |                             |                                   |                                    | 
-PWR_SW      | JST 2pin Right Angle     |                             |                                   |                                    | 
+J8          | JST 4pin Right Angle     | S4B-XH-A-1                  | 455-S4B-XH-A-1-ND                 | 306-S4BXHA1LFSN                    | *Need to verify part compatibility
+SW1         | Tactile SW Right Angle   | PTS645VK58-2 LFS            | CKN10965-ND                       | 611-PTS645VK582                    | *Need to verify part compatibility
+PWR_SW      | JST 2pin Right Angle     | B2B-XH-A                    | 455-B2B-XH-A-ND                   | 306-B2BXHALFSNP                    | 
 

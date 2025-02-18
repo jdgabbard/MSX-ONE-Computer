@@ -3664,7 +3664,7 @@
     (in_bom yes) (on_board yes)
     (uuid eef5931c-e3be-4e0a-81df-ad34150ba8a7)
     (property "Reference" "L2" (id 0) (at 143.51 146.05 90))
-    (property "Value" "88uH" (id 1) (at 143.51 148.59 90))
+    (property "Value" "68uH" (id 1) (at 143.51 148.59 90))
     (property "Footprint" "Inductor_THT:L_Radial_D8.7mm_P5.00mm_Fastron_07HCP" (id 2) (at 143.51 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )

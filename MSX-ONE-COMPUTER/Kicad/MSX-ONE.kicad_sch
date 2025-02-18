@@ -621,7 +621,7 @@
       (reference "L1") (unit 1) (value "1uH") (footprint "Inductor_THT:L_Axial_L7.0mm_D3.3mm_P10.16mm_Horizontal_Fastron_MICC")
     )
     (path "/42396204-44ef-4b7e-b85c-27b227a427c5/eef5931c-e3be-4e0a-81df-ad34150ba8a7"
-      (reference "L2") (unit 1) (value "88uH") (footprint "Inductor_THT:L_Radial_D8.7mm_P5.00mm_Fastron_07HCP")
+      (reference "L2") (unit 1) (value "68uH") (footprint "Inductor_THT:L_Radial_D8.7mm_P5.00mm_Fastron_07HCP")
     )
     (path "/42396204-44ef-4b7e-b85c-27b227a427c5/eaeb10d2-9226-4507-a089-45188e42afd7"
       (reference "L5") (unit 1) (value "68uH") (footprint "Inductor_THT:L_Radial_D8.7mm_P5.00mm_Fastron_07HCP")
